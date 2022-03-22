@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<a href="[https://www.linkedin.com/in/emmanuelle-pereira-dev/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="[mailto:emma.persil@gmail.com]"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="[wa.me/5561996801279]"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+
 <!--
 **emmapersil/emmapersil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
