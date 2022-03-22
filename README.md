@@ -21,6 +21,26 @@
   
 </p>
 
+### Sobre mim
+
+Sou uma mineira morando em Brasília, apaixonada por música, cultura geek e aprender novos hobbies.
+Iniciando minha carreira como Full Stack e já me sinto em casa libertando a minha criatividade no Front End ou trabalhando a estrutura e a lógica do Back End.
+
+### Linguagens e tecnologias
+- SO baseado em Unix
+- HTML
+- CSS
+- JavaScript
+- ES6
+- React
+- Redux
+- React Testing Library (RTL)
+- Node.js
+- Jest
+- Docker
+- MySQL
+
+
 <!--
 **emmapersil/emmapersil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
