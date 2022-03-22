@@ -21,10 +21,23 @@
   
 </p>
 
-### Sobre mim
+<hr/>
 
-Sou uma mineira morando em Brasília, apaixonada por música, cultura geek e aprender novos hobbies.
+<h2 align='center'>
+  Sobre mim
+</h2>
+
+<p align='center'>
+  Sou uma mineira morando em Brasília, apaixonada por música, cultura geek e aprender novos hobbies.
 Iniciando minha carreira como Full Stack e já me sinto em casa libertando a minha criatividade no Front End ou trabalhando a estrutura e a lógica do Back End.
+</p>
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emmapersil&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmapersil&layout=compact&theme=dark" width="350"></a>
+</p>
+
 
 ### Linguagens e tecnologias
 - SO baseado em Unix
