@@ -15,7 +15,7 @@
   <a href="mailto:emma.persil@gmail.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="wa.me/5561996801279">
+  <a href="https://wa.me/5561996801279?text=Olá%20encontrei%20seu%20GitHub%20podemos%20conversar%20por%20aqui">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
