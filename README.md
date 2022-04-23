@@ -5,6 +5,11 @@
 <p align='center'>
   Atualmente estudante na <a href="https://www.betrybe.com/">Trybe</a>
 </p>
+<h4 align='center'>
+  Veja meu portfólio online <a href="https://emmanuelle-pereira-dev.vercel.app/" target='_blank'>aqui</a>
+</h4>
+
+<hr/>
 
 
 <p align='center'>
