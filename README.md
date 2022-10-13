@@ -3,7 +3,9 @@
 </h1>
 
 <p align='center'>
-  Atualmente, backend Dev na <a href="https://grafeno.digital/">Grafeno</a> 
+  Atualmente, backend Dev na <a href="https://grafeno.digital/">Grafeno</a>
+</p>
+<p align='center'>
   Formada na <a href="https://www.betrybe.com/">Trybe</a>
 </p>
 <h4 align='center'>
