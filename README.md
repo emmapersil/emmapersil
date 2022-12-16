@@ -49,6 +49,7 @@ Iniciando minha carreira como Full Stack e já me sinto em casa libertando a min
 
 ### Linguagens e tecnologias
 - SO baseado em Unix
+- Ruby on Rails
 - HTML
 - CSS
 - JavaScript
