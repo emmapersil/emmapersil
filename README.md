@@ -5,9 +5,6 @@
 <p align='center'>
   Atualmente, backend Dev na <a href="https://grafeno.digital/">Grafeno</a>
 </p>
-<p align='center'>
-  Formada na <a href="https://www.betrybe.com/">Trybe</a>
-</p>
 <h4 align='center'>
   Veja meu portfólio online <a href="https://emmanuelle-pereira-dev.vercel.app/" target='_blank'>aqui</a>
 </h4>
@@ -36,8 +33,8 @@
 </h2>
 
 <p align='center'>
-  Sou uma mineira morando em Brasília, apaixonada por música, cultura geek e aprender novos hobbies.
-Iniciando minha carreira como Full Stack e já me sinto em casa libertando a minha criatividade no Front End ou trabalhando a estrutura e a lógica do Back End.
+  Sou uma mineira morando em Brasília, apaixonada por música, tecnologia, cultura geek e aprender novos hobbies.
+  Sigo nutrindo minha carreira como Full Stack, seja libertando a minha criatividade no Front End ou trabalhando a estrutura e a lógica do Back End.
 </p>
 
 
