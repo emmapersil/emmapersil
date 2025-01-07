@@ -2,9 +2,6 @@
   Hi there 👋 I'm Emmanuelle 👩🏻‍🦱👩🏻‍💻
 </h1>
 
-<p align='center'>
-  Atualmente, backend Dev na <a href="https://grafeno.digital/">Grafeno</a>
-</p>
 <h4 align='center'>
   Veja meu portfólio online <a href="https://emmanuelle-pereira-dev.vercel.app/" target='_blank'>aqui</a>
 </h4>
